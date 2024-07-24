@@ -7,6 +7,7 @@ This is my EAC Bypass (Setup) Driver that offers an undetected communication and
 - CR3 R/W Implementation (Just use my other source)
 - Handle ID Randomization for KM->UM Communication
 - Get a mapper (Use my DSE Exploit)
+
 💕 This is originally from my P2C But I am releasing it because I have moved onto new methods/exploits.
 # Contact
 If you want all of this done or want to hire me for more professional work (I do bypasses for BE,EAC,VGK) My contact discord is -> `_ambitza`
