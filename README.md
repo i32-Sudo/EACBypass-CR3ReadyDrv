@@ -10,4 +10,4 @@ This is my EAC Bypass (Setup) Driver that offers an undetected communication and
 
 💕 This is originally from my P2C But I am releasing it because I have moved onto new methods/exploits.
 # Contact
-If you want all of this done or want to hire me for more professional work (I do bypasses for BE,EAC,VGK) My contact discord is -> `_ambitza`
+If you want to contact me in regards of my work or projects my discord is -> `_ambitza`, Please do not message me for Issues or Learning/Studying I am not a teacher.
